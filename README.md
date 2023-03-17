@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5uper0)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0679F7&width=435&lines=Hello%2C+world!;I'm+Oleh+Veheria;iOS+Engineer+and+a+Team+Lead)](https://git.io/typing-svg)
